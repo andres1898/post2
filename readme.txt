@@ -13,4 +13,4 @@ Follow the step to get all my results:
 6) run bayes.sh to get Bayesian recontruction
 7) run RF_and_plot.R to get the graph and comparations
 
-at the end you shoul have the figures of my post 2
+at the end you should have the figures of my post 2
