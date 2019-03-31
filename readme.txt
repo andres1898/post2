@@ -1,5 +1,6 @@
 Andres Ordoñez Casadiego - Biología Comparada I 2018-02
 this is a scripts to develop my post 2 "Can you recuperate the monophyly?"
+http://elecsist.blogspot.com/
 
 You have to be sure to have installed R, seq-gen, RaxML-ng, TNT, MrBayes.
 
