@@ -1,0 +1,76 @@
+terminales,RF,Metodo
+5,0,Parsimonia
+5,2,Parsimonia
+5,0,Parsimonia
+10,4,Parsimonia
+10,2,Parsimonia
+10,0,Parsimonia
+20,4,Parsimonia
+20,6,Parsimonia
+20,8,Parsimonia
+30,14,Parsimonia
+30,6,Parsimonia
+30,10,Parsimonia
+40,8,Parsimonia
+40,12,Parsimonia
+40,16,Parsimonia
+5,0,Parsi Weight
+5,2,Parsi Weight
+5,0,Parsi Weight
+10,4,Parsi Weight
+10,2,Parsi Weight
+10,0,Parsi Weight
+20,4,Parsi Weight
+20,6,Parsi Weight
+20,10,Parsi Weight
+30,14,Parsi Weight
+30,6,Parsi Weight
+30,10,Parsi Weight
+40,8,Parsi Weight
+40,10,Parsi Weight
+40,16,Parsi Weight
+5,0,ML default
+5,2,ML default
+5,0,ML default
+10,4,ML default
+10,0,ML default
+10,0,ML default
+20,0,ML default
+20,2,ML default
+20,6,ML default
+30,10,ML default
+30,2,ML default
+30,4,ML default
+40,4,ML default
+40,0,ML default
+40,16,ML default
+5,0,ML HKY
+5,2,ML HKY
+5,0,ML HKY
+10,4,ML HKY
+10,0,ML HKY
+10,0,ML HKY
+20,0,ML HKY
+20,2,ML HKY
+20,6,ML HKY
+30,10,ML HKY
+30,2,ML HKY
+30,4,ML HKY
+40,4,ML HKY
+40,0,ML HKY
+40,18,ML HKY
+5,0,Bayes
+5,2,Bayes
+5,0,Bayes
+10,0,Bayes
+10,0,Bayes
+10,0,Bayes
+20,0,Bayes
+20,4,Bayes
+20,4,Bayes
+30,22,Bayes
+30,4,Bayes
+30,14,Bayes
+40,30,Bayes
+40,16,Bayes
+40,34,Bayes
